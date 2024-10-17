@@ -1,0 +1,20 @@
+#REALIZAR UN CODIGO EN PYTHON QUE SIMULE UN RELOJ
+#FORMATO DE 24 HRS.
+#QUE EMPIECE EN 00:00 HASTA 23:59 Y SE REINICIE 
+#PERO QUE IMPLEMENTE TIME.SLEEP (X) PARA QUE SE ACTUALICE
+#CADA SEGUNDO O MAS ACELERADO.
+
+import time
+horas = 00:00
+minutos = 0
+
+while >= 00:00:
+     print("Reproduciendo minutos", minutos)
+     time.sleep(1)
+     minutos += 1
+     if minutos == 60
+         minutos = 0
+         horas += 1
+         if horas == 24
+            horas = 0
+     
