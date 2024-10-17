@@ -5,11 +5,11 @@
 #CADA SEGUNDO O MAS ACELERADO.
 
 import time
-horas = 00:00
+horas = 0
 minutos = 0
 
-while >= 00:00:
-     print("Reproduciendo minutos", minutos)
+while minutos >= 0:
+     print(("horas:02d":minutos:02d))
      time.sleep(1)
      minutos += 1
      if minutos == 60
